@@ -1,3 +1,3 @@
 setTimeout(function(){
-    window.location.href = "index/MENU DE OPCIONES.html";
+    window.location.href = "index/MENUDEOPCIONES.html";
 }, 0)
