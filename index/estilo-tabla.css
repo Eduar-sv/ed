@@ -1,0 +1,30 @@
+div{
+    width: 400px;
+    height: 119px;
+    border-radius: 25px;
+    border-style: groove;
+    border-color: brown;
+    border-width: 10px;
+    border-start-end-radius:initial;
+    border-end-start-radius: initial;
+    background-color: rgb(128, 128, 128);
+    color: rgb(18, 92, 0);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 1080px;
+    height: 680px;
+    border-radius: 50px;
+    border-style: groove;
+    border-color:brown;
+    background-color: rgb(241, 109, 0);
+    display: flex;}
+
+.btn{
+    background-color: rgb(30, 255, 0);
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    font-size: 18px;
+}
