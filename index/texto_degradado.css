@@ -1,0 +1,23 @@
+.btn{
+    background-color: rgb(30, 255, 0);
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+button-span{
+    background-color: #000000;
+    padding: 16px 24px;
+    border-radius: 6px;
+    transition: .3s;
+    
+}
+
+.btn:hover{
+    background:aqua;
+}
+
+.btn:active{
+    transform: scale(0.9);
+}
