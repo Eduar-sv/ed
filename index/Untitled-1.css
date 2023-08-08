@@ -39,7 +39,7 @@ body{
 }
 
 .menu li a:hover {
-    color: #ce7d35;
+    color: rgb(255, 0, 0);
     transition: all 0.3;
 }
 
