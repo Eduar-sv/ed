@@ -1,3 +1,3 @@
 setTimeout(function(){
-    window.location.href = "Login/Login.html";
+    window.location.href = "index/MENUDEOPCIONES.html";
 }, 5000)
